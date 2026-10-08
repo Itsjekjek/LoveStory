@@ -33,8 +33,8 @@ Jk ♡`,
   // 4) ADD YOUR MUSIC
   // Put the audio file inside assets/, then change this path.
   // Example: musicPath: "assets/our-song.mp3"
-  musicPath: "assets/our-song.mp3",
-  songTitle: "This song reminds me of you :D",
+  musicPath: "assets/bgsong.mp3",
+  songTitle: "This song reminds me of you :>",
 
   // 5) ADD YOUR PHOTOS
   // Example placeholders use .svg for now. Replace with your own .jpg / .png later:

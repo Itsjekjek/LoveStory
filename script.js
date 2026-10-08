@@ -95,18 +95,18 @@ Jk ♡`,
 
   // 8) REASONS I LOVE YOU
   reasons: [
-    ["♥", "Your smile"],
+    ["🥴", "Your smile"],
     ["🌷", "Your kindness"],
     ["😂", "The way you make me laugh"],
     ["🤍", "The way you care"],
-    ["✨", "Your little habits"],
+    ["🥴", "Maka addict ikaw"],
     ["🥰", "The way you make me feel safe"],
     ["🌙", "The late-night conversations"],
     ["💗", "Because you're you"],
-    ["☀️", "How you brighten my days"],
-    ["🫶", "How you always try"],
+    ["😊", "You are always there for me"],
+    ["😘", "How you always try"],
     ["🎀", "Your beautiful heart"],
-    ["♾️", "Because I simply choose you"]
+    ["💋", "Because I simply choose you"]
   ]
 };
 
